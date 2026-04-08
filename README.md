@@ -104,6 +104,4 @@ PORT=5000
 Your Name
 GitHub: [https://github.com/Nyasa139](https://github.com/Nyasa139)
 
----
 
-If you want, I can now give you a **very polished recruiter-level README with badges and deployment links** 🚀
